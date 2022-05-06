@@ -1,0 +1,216 @@
+Uri: https://6238ee4286952.site123.me/
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\index.htm
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/המלצות
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\המלצות.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/ליצירת-קשר
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ליצירת-קשר.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/מחירון
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\מחירון.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/עוד-ציורים-שלי
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\עוד-ציורים-שלי.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/תיק-עבודות
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\תיק-עבודות.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/תיק-עבודות/אימוגים
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\תיק-עבודות\אימוגים.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/תיק-עבודות/סקינים
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\תיק-עבודות\סקינים.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/תיק-עבודות/קריקטורות
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\תיק-עבודות\קריקטורות.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/תיק-עבודות/קריקטורות-פשוטות
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\תיק-עבודות\קריקטורות-פשוטות.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/תיק-עבודות/רנדר
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\תיק-עבודות\רנדר.html
+Content Type: text/html
+
+Uri: https://6238ee4286952.site123.me/about
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\about.html
+Content Type: text/html
+
+Uri: https://cdn-cms-s.f-static.net/files/vendor/slick-1.8.1/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\files\vendor\slick-1.8.1\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://cdn-cms-s.f-static.net/files/vendor/slick-1.8.1/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\files\vendor\slick-1.8.1\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn-cms-s.f-static.net/files/vendor/slick-1.8.1/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\files\vendor\slick-1.8.1\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn-cms-s.f-static.net/files/vendor/slick-1.8.1/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\files\vendor\slick-1.8.1\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-cms-s.f-static.net/files/vendor/slick-1.8.1/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\files\vendor\slick-1.8.1\slick\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn-cms-s.f-static.net/files/vendor/slick-1.8.1/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\files\vendor\slick-1.8.1\slick\fonts\slick.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn-cms-s.f-static.net/manager/websites/site123_website/files/logos/brand_files_2020/Icons/Png/Icon_blue.png?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\manager\websites\site123_website\files\logos\brand_files_2020\Icons\Png\Icon_blue.png
+Content Type: image/png
+
+Uri: https://cdn-cms-s.f-static.net/manager/websites/site123_website/files/logos/brand_files_2020/Logo/Horizontal/PNG/Horizontal_Black.png?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\manager\websites\site123_website\files\logos\brand_files_2020\Logo\Horizontal\PNG\Horizontal_Black.png
+Content Type: image/png
+
+Uri: https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=152&height=152&resizeType=pwaIcon&w=&orderScreen=&websiteID=6088933&tranW=&v=css_n152_33004730&moduleID=
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\pwaScreenLogo\pwaImage.png
+Content Type: image/png
+
+Uri: https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=167&height=167&resizeType=pwaIcon&w=&orderScreen=&websiteID=6088933&tranW=&v=css_n152_33004730&moduleID=
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\pwaScreenLogo\pwaImage-2.png
+Content Type: image/png
+
+Uri: https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=180&height=180&resizeType=pwaIcon&w=&orderScreen=&websiteID=6088933&tranW=&v=css_n152_33004730&moduleID=
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\pwaScreenLogo\pwaImage-1.png
+Content Type: image/png
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/css/manifest.json?w=&orderScreen=&websiteID=6088933&onlyContent=&tranW=&v=css_n152_33004730&wd=6238ee4286952.site123.me&moduleID=
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\css\manifest.json
+Content Type: application/json
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/css/minimize-data.css?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\css\minimize-data.css
+Content Type: text/css
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/css/minimize_main_rtl.css?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\css\minimize_main_rtl.css
+Content Type: text/css
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/css/websiteCSS.css?w=&orderScreen=&websiteID=6088933&onlyContent=&tranW=&v=css_n152_33004730
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\css\websiteCSS.css
+Content Type: text/css
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/js/js.php?v=n81869&umk=1-5-106
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\js\js.php
+Content Type: text/css
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/js/minimize-data.js?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\js\minimize-data.js
+Content Type: text/javascript
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/js/minimize_p1.js?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\js\minimize_p1.js
+Content Type: text/javascript
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/js/minimize_p2.js?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\js\minimize_p2.js
+Content Type: text/javascript
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/js/minimize_p3.js?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\js\minimize_p3.js
+Content Type: text/javascript
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/js/minimize_p4.js?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\js\minimize_p4.js
+Content Type: text/javascript
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/js/minimize_scripts.js?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\js\minimize_scripts.js
+Content Type: text/javascript
+
+Uri: https://cdn-cms-s.f-static.net/versions/2/wizard/statistics/js/generateStats-min.js?v=n81869
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\versions\2\wizard\statistics\js\generateStats-min.js
+Content Type: text/javascript
+
+Uri: https://fonts.gstatic.com/s/alef/v21/FeVfS0NQpLYgnjdRCrNy1bRbkg.woff2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\s\alef\v21\FeVfS0NQpLYgnjdRCrNy1bRbkg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/alef/v21/FeVfS0NQpLYgnjVRCrNy1bQ.woff2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\s\alef\v21\FeVfS0NQpLYgnjVRCrNy1bQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/alef/v21/FeVQS0NQpLYglo50H55Q2J5hm24.woff2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\s\alef\v21\FeVQS0NQpLYglo50H55Q2J5hm24.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/alef/v21/FeVQS0NQpLYglo50H5xQ2J5hm25mww.woff2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\s\alef\v21\FeVQS0NQpLYglo50H5xQ2J5hm25mww.woff2
+Content Type: font/woff2
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/angle-up.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\angle-up.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/bars.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\bars.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/chevron-left.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\chevron-left.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/chevron-right.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/quote-right.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\quote-right.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/share-alt.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\share-alt.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/share.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\share.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/shopping-cart.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\shopping-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/star-half.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\star-half.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/star-o.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\star-o.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/ready_uploads/svg/star.svg?v=2
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\ready_uploads\svg\star.svg
+Content Type: image/svg+xml
+
+Uri: https://static1.s123-cdn-static-a.com/uploads/6088933/2000_6273d4ea07c7a.png
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\uploads\6088933\2000_6273d4ea07c7a.png
+Content Type: image/png
+
+Uri: https://static1.s123-cdn-static-a.com/uploads/6088933/400_filter_nobg_6273e4b5afc33.jpg
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\uploads\6088933\400_filter_nobg_6273e4b5afc33.jpg
+Content Type: image/png
+
+Uri: https://static1.s123-cdn-static-a.com/uploads/6088933/normal_626eee69552a7.gif
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\uploads\6088933\normal_626eee69552a7.gif
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-171296505-1
+File Name: C:\Downloaded Web Sites\6238ee4286952.site123.me\gtag\js
+Content Type: application/javascript
+
